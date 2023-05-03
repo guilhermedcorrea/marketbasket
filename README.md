@@ -1,3 +1,6 @@
+
+# Dashboards Tableau
+
 # marketbasket
 # Fazer JOIN da tabela Pedidos vs Ela mesma para confrontar os valores de uma com a outra
 
@@ -15,8 +18,6 @@
 # Parametros
 # Sub Categoria1
 # Sub Categoria2
-
-
 
 
 
